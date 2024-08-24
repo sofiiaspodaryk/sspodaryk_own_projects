@@ -1,2 +1,2 @@
-# sspodaryk_projects
-:) get to know me through my projects 
+# sspodaryk_practise
+:) get to know me through my little projects 
